@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../new css"
+        },
+        {
+            "path": "../web 1"
+        },
+        {
+            "path": "../lesson selector"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "villar web"
+    }
+}
